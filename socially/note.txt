@@ -1,0 +1,1 @@
+http://angular-meteor.com/tutorials/angular1/bootstrapping
